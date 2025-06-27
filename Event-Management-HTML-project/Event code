@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Events</title>
+  <link rel="icon" href="img/date.png">
+</head>
+
+<body>
+  <center>
+   <h1>Upcoming Events🗓️</h1>
+   <h4> Dont miss any of your important events. Here are the important yiu have registered for!</h4>
+  
+  <hr>
+  
+   <p>Salem is buzzing with activity this week, starting with a Gourmet Cookies Workshop at CJ Pallazzio on June 28, where food enthusiasts can learn hands‑on baking techniques and decorate their creations. The following day, June 29, the same venue hosts a Designer Expo showcasing local fashion and artisanal crafts, offering unique shopping and networking opportunities. Meanwhile, nearby Yercaud hosts the CII IWN Southern Region Legacy Trail from June 27 to 29, combining cultural tours with business discussions. Looking ahead, a Seminar on LPG Cylinder Dealership is scheduled for July 24 at Hotel Rathna Residency, appealing to aspiring entrepreneurs.</p>
+    
+   <img src="img/event1.jpg" width="300px"> <br>
+    <a href="https://www.myntra.com"> Fashion Store </a> 
+    
+    <h2>Photo Gallary</h2> 
+    <h3>Free Entry|Free Food|Pets are not allowed</h3>
+    <p>Salem is abuzz with events: on June 28, enjoy a hands‑on Gourmet Cookies Workshop at CJ Pallazzio; June 29 brings a Designer Expo highlighting local fashion and crafts. Nearby Yercaud hosts the CII IWN Southern Region Legacy Trail from June 27–29, blending cultural tours and business networking.</p>
+    <img src="img/event2.jpg" width="250px">
+  
+  <hr>
+    
+    <h3>Contact</h3>
+    <h4>+91 8973778143|eventcollab21gmail.com</h4>
+    <h5>5th street Anna park,Salem</h5>
+  </center>
+    
+</body>
+
+</html>
